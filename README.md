@@ -1,4 +1,4 @@
-# Buildinig a Home Lab
+# Building a Home Lab
 
 ## Objective
 [Brief Objective - Remove this afterwards]
