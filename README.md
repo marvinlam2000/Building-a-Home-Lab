@@ -14,8 +14,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Tools Used
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis. (Splunk)
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Telemetry generation tools to create realistic network traffic and attack scenarios. (Sysmon)
 
 ## Steps
 Step 1: Download Virtual Box onto user computer. User could verify download integrity by comparing the hash value provided on the website.
@@ -57,6 +56,8 @@ Step 12: Disable Windows virus and threat protection in users VM. Open browser a
 Step 13: Use the command prompt in the Windows VM to see if there is an establish connection with the malware.
 ![Step 13](https://github.com/user-attachments/assets/d2f8bd96-869d-4102-b3f1-ad412c43c65b)
 
+Step 14: Use sysmon to use the telemetry data and input it into splunk to analyze the data. 
+![Step 14](https://github.com/user-attachments/assets/f88f4f0d-9b45-410a-94e5-777ccb5680ce)
 
 
 
