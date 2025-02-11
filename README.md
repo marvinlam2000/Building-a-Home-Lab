@@ -51,6 +51,12 @@ Step 10: Generate our malware using meterpreter reverse tcp payload which is ins
 Step 11: Set payload on msf6 exploit to the payload that corresponses to the file created with the malware.
 ![Step 11](https://github.com/user-attachments/assets/510be439-9232-4b4e-8f3c-d4952e88ba4d)
 
+Step 12: Disable Windows virus and threat protection in users VM. Open browser and type in the kali IP address and the port number to download the malware that the user created.
+![Step 12](https://github.com/user-attachments/assets/2d241c93-2b2e-4824-8a28-2825bef21c10)
+
+Step 13: Use the command prompt in the Windows VM to see if there is an establish connection with the malware.
+![Step 13](https://github.com/user-attachments/assets/d2f8bd96-869d-4102-b3f1-ad412c43c65b)
+
 
 
 
